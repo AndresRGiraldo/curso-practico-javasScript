@@ -6,5 +6,12 @@
 
 - Primer paso: Definir las formas
 - Segundo paso: Implementar las formulas en javaScript
-- Tercer paso: Crear funciones 
+- Tercer paso: Crear funciones
+- Cuarto paso: Intengrar JavaScript con html
+
+## Porcentages y descuentos
+
+- Primer paso: Definir las formas
+- Segundo paso: Implementar las formulas en javaScript
+- Tercer paso: Crear funciones
 - Cuarto paso: Intengrar JavaScript con html
